@@ -1,331 +1,348 @@
+# 📋 COMMANDES COMPLÈTES - SETUP README GITHUB PROFIL
+
+## ✅ ÉTAPE 1 : Cloner/naviguer vers ton repo profil
+
+```bash
+# Option A : Si tu as déjà le repo en local
+cd ~/path/to/Altay55stage
+cd Altay55stage
+
+# Option B : Si c'est la première fois (clone depuis GitHub)
+git clone https://github.com/Altay55stage/Altay55stage.git
+cd Altay55stage
+```
+
+---
+
+## ✅ ÉTAPE 2 : Créer/remplacer le README.md avec le contenu ULTRA-VISUEL
+
+**Copie-colle EXACTEMENT cette commande** :
+
+```bash
+cat > README.md << 'EOF'
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1e3a8a&center=true&vCenter=true&width=600&lines=Altay+Cevik;Full-Stack+IA+Engineer;Master+1+IoT+UFR+STGI;Alternance+Backend%2FIA+2026;%F0%9F%9A%80+Ready+for+your+project!" alt="typing SVG" />
+</div>
 
-![Banner IA](https://via.placeholder.com/1200x250/1e3a8a/ffffff?text=ALTAY+CEVIK+-+Ingenieur+IA+Full-Stack+DevOps)
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub-Altay55stage-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Master1_IoT-UFR_STGI-blue?style=for-the-badge&logo=university&logoColor=white" />
+  <img src="https://img.shields.io/badge/eHosp.fr-Production-green?style=for-the-badge&logo=globe&logoColor=white" />
+  <img src="https://img.shields.io/badge/MedAssist_AI-87%25-orange?style=for-the-badge&logo=brain&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-95%25-purple?style=for-the-badge&logo=target&logoColor=white" />
+</div>
 
-# 👋 Altay CEVIK
-**Ingénieur IoT Bac+5 | eHosp.fr | MedAssist AI RAG | YOLOv8 | PointNet++**  
-*Master 1 IoT UFR STGI Montbéliard | Disponible Alternance Backend/IA Sept. 2026*
+# 👨‍💻 Altay CEVIK
+**🎓 Ingénieur IoT Bac+5 | 🏥 eHosp.fr | 🤖 MedAssist AI RAG | 👁️ YOLOv8 PointNet++**  
+*📚 Master 1 IoT UFR STGI Montbéliard | 💼 Alternance Backend/IA Sept. 2026*
 
-[![Altay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Altay55stage&show_icons=true&theme=radical&count_private=true)](https://github.com/Altay55stage)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Altay55stage&layout=compact&theme=radical)](https://github.com/Altay55stage)
+<div align="center">
+  <img height='200em' src='https://github-readme-stats.vercel.app/api?username=Altay55stage&show_icons=true&theme=radical&count_private=true&hide_border=true' />
+  <img height='200em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Altay55stage&layout=compact&theme=radical&hide_border=true' />
+</div>
 
-**🔥 Actuellement** : Ingénieur R&D IA / Computer Vision 
+<img src="https://github-profile-trophy.vercel.app/?username=Altay55stage&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Trophies" />
 
+---
+
+## 🎯 Qui suis-je ?
+
+<div align="center">
+<table>
+<tr>
+<td>
+  <img src="https://img.shields.io/badge/Passion%C3%A9%20IA-FF6B6B?style=for-the-badge&logo=sparkles&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full-Stack-4ECDC4?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Performance-45B7D1?style=for-the-badge&logo=rocket&logoColor=white" />
+</td>
+<td>
+  <img src="https://img.shields.io/badge/Production-96CEB4?style=for-the-badge&logo=server&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-F7DC6F?style=for-the-badge&logo=cogs&logoColor=black" />
+  <img src="https://img.shields.io/badge/Frontend-85C1E9?style=for-the-badge&logo=paint-brush&logoColor=white" />
+</td>
+</tr>
+</table>
+</div>
+
+**🚀 Spécialités** : HealthTech | Agents IA | Vision 3D | DevOps Scale | Performance API
+
+---
+
+## 🔥 PROJET MAJEUR : MedAssist AI ⭐
+
+<div align="center">
+<img src="https://img.shields.io/badge/RAG_87%25_accuracy-yellow?style=flat-square&logo=brain&logoColor=black" />
+<img src="https://img.shields.io/badge/100%25_on-premise-green?style=flat-square&logo=shield&logoColor=white" />
+<img src="https://img.shields.io/badge/Multimodal-purple?style=flat-square&logo=eye&logoColor=white" />
+</div>
+
+**🤖 Chatbot Médical RAG Autonome**  
+*FastAPI | LangChain | Mistral 7B | FAISS | React 18*
+
+```
+✅ Chat RAG médical (citations docs privés)
+✅ Agents autonomes : dosages, interactions médicamenteuses
+✅ GPT-4o Vision : analyse ordonnances images
+✅ Whisper : dictée vocale médecins
+✅ Pydantic v2 : JSON structurés validés
+✅ 100% on-premise Ollama
+✅ Accuracy 87% (RAGAS)
+✅ Latency 1.2s (Mistral local)
+```
+
+**Repo** : `github.com/Altay55stage/medassist-ai` ⭐
+
+---
+
+## 🌐 eHosp.fr - API REST PRODUCTION
+
+<div align="center">
+<img src="https://img.shields.io/badge/1000_users_simultan%C3%A9s-green?style=flat-square&logo=users&logoColor=white" />
+<img src="https://img.shields.io/badge/API_p95_250ms-blue?style=flat-square&logo=clock&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSocket_50ms-orange?style=flat-square&logo=zap&logoColor=white" />
+</div>
+
+**Lead Backend Architect** | Node.js React Docker K8s
+
+```
+⚡ 1000+ connexions simultanées
+⚡ API 40 endpoints p95 <250ms
+⚡ WebSocket médical <50ms
+⚡ Redis caching -60% latence
+⚡ Gemini 2.0 triage 60 langues
+⚡ Terraform CI/CD -3000€/an
+```
+
+---
+
+## 🛠️ Tech Stack ULTRA-DÉTAILLÉ
+
+```mermaid
+graph TB
+  subgraph Backend["Backend & API"]
+    A[Node.js 18+] --> B[FastAPI 0.111]
+    B --> C[Express.js]
+    C --> D[Redis BullMQ]
+    D --> E[PostgreSQL]
+  end
+  
+  subgraph Frontend["Frontend"]
+    F[React 18] --> G[Vite]
+    G --> H[TailwindCSS]
+    H --> I[TypeScript]
+  end
+  
+  subgraph DevOps["DevOps & Cloud"]
+    J[Docker] --> K[Kubernetes]
+    K --> L[Terraform IaC]
+    L --> M[Azure DevOps]
+  end
+  
+  subgraph AI["IA/ML"]
+    N[PyTorch] --> O[YOLOv8]
+    O --> P[PointNet++]
+    P --> Q[Mistral 7B Ollama]
+    Q --> R[LangChain RAG]
+  end
+  
+  subgraph IoT["IoT/Embarqué"]
+    S[ROS 2] --> T[LiDAR Livox]
+    T --> U[MQTT Modbus]
+  end
+```
+
+---
+
+## 📊 PERFORMANCE DASHBOARD
+
+```mermaid
+graph LR
+  A[Uptime 99.9%] --> B[🟢 Production]
+  C[API p95 <250ms] --> D[🟢 UX]
+  E[Cache 78%] --> F[🟢 -60% DB]
+  G[1000+ Users] --> H[🟢 Scale]
+  I[-3000€/an] --> J[🟢 ROI]
+```
+
+| **Métrique** | **Valeur** | **Status** | **Impact** |
+|--------------|------------|------------|------------|
+| Uptime | **99.9%** | 🟢 | Production |
+| API p95 | **<250ms** | 🟢 | UX optimale |
+| Cache | **78%** | 🟢 | -60% DB |
+| Users | **1000+** | 🟢 | Scalable |
+| Savings | **-3000€** | 🟢 | ROI |
+
+---
+
+## 🎓 FORMATION
+
+```
+🎓 Master 1 IoT Bac+4 - UFR STGI | 2025-2026
+🎓 Master 2 IoT Bac+5 - UFR STGI | 2026-2027
+🎓 BUT IoT Bac+3 - IUT Montbéliard | 2022-2025
+```
+
+---
+
+## 💼 EXPÉRIENCES
+
+**🔬 Ingénieur R&D IA** Faurecia Seating | Fév-Juin 2025  
+→ MedAssist AI + eHosp.fr Lead Backend  
+→ YOLOv8 drone edge (-40% latence)  
+→ PointNet++ 3D LiDAR 95%  
+
+**🛠️ Tech IT Support** Faurecia Seating | Avr-Juin 2024  
+→ Infra production 99.9% uptime  
+
+---
+
+## 🌍 ALTERNANCE DISPONIBLE
+
+<div align="center">
+<img src="https://img.shields.io/badge/Alternance_12_mois-Sept_2026-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" />
+<img src="https://img.shields.io/badge/Audincourt_Frontalier_Suisse-blue?style=for-the-badge&logo=map&logoColor=white" />
+</div>
+
+```
+📅 SEPT 2026 → AOÛT 2027 (12 mois)
+📍 Audincourt : 15min Belfort | 1h30 Genève | 5min Montbéliard
+
+🎯 Priorités :
+🏥 HealthTech/eHealth | 🤖 AI/ML | 💹 FinTech | ☁️ DevOps
+```
+
+---
+
+## 📞 CONTACT
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/Email-altaycevik@gmail.com-brightred?style=for-the-badge&logo=gmail&logoColor=white" />
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Phone-%2B33783656837-green?style=for-the-badge&logo=phone&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-altay--cevik-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/GitHub-Altay55stage-black?style=for-the-badge&logo=github&logoColor=white" />
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
-## 🎯 À propos de moi
-
-**Développeur Full-Stack IA passionné** par :
-- 🏥 Architectures de santé numérique (eHosp.fr)
-- 🤖 Agents autonomes LLM (LangChain, Mistral, GPT-4o)
-- 👁️ Vision par ordinateur 3D (YOLOv8, PointNet++, LiDAR)
-- ⚡ DevOps & cloud infrastructure (Docker, K8s, Terraform, Azure)
-- 📊 Optimisation de performance (Redis, caching, API latency p95)
-
-**Spécialités** :
-✅ Architecte Node.js/FastAPI haute performance  
-✅ RAG vectoriel (FAISS + embeddings)  
-✅ Agents IA multi-outils autonomes  
-✅ Point Cloud Processing 3D temps réel  
-✅ CI/CD pipelines & Infrastructure as Code  
-✅ React/Vue3 frontend moderne  
-
----
-
-## 🛠️ Stack technique complète
-
-### Backend & API
-```
-Node.js 18+      Express.js       FastAPI 0.111    GraphQL
-REST APIs        WebSocket        gRPC             OAuth2/JWT
-PostgreSQL       MongoDB          Redis (Caching)  BullMQ (Task Queue)
-```
-
-### Frontend
-```
-React 18         Vue 3            TailwindCSS      Chart.js
-TypeScript       Vite             Next.js          Responsive Design
-Accessibility    State Management (Redux/Pinia)
-```
-
-### DevOps & Cloud
-```
-Docker           Docker Compose   Kubernetes       Helm
-Terraform (IaC)  Azure DevOps     GitHub Actions   CI/CD Pipelines
-Azure Cloud      AWS (notions)    VM Orchestration Bash/Zsh Scripting
-Monitoring       Logging          Performance Tuning
-```
-
-### IA & Machine Learning
-```
-Python 3.11+     PyTorch          LangChain 0.2    Mistral 7B (Ollama)
-YOLOv8           PointNet++       FAISS VectorDB   RAG (Retrieval Augmented Gen)
-OpenAI GPT-4o    Whisper API      Vision           Agents Autonomes
-Gemini 2.0       Model Fine-tuning Data Engineering Transfer Learning
-```
-
-### IoT & Embarqué
-```
-ROS 2            MQTT             Modbus           LiDAR (Livox)
-C/C++            Swift (iOS)      Embedded Linux   Protocol Buffers
-Real-time Processing Edge Computing Sensor Integration
-```
-
----
-
-## 🚀 Projets phares
-
-### 1️⃣ eHosp.fr - Plateforme Télémédecine (Lead Architect)
-
-**Mission** : Architect et développement backend d'une plateforme de santé numérique scalable
-
-**Stack** : Node.js + Express | React 18 | Redis | PostgreSQL | Docker | K8s | Azure DevOps
-
-**Résultats mesurés** :
-- ✅ **1000 connexions simultanées** validées en production (stress test)
-- ✅ **API REST haute perf** : 40 endpoints, latence moyenne 100ms, p95 <250ms
-- ✅ **WebSocket médical** : latence garantie <50ms (données patient critiques)
-- ✅ **Redis caching** : -60% latence API, smart invalidation
-- ✅ **Triage automatisé** : Gemini 2.0 IA, support 60 langues
-- ✅ **Graceful shutdown** : BullMQ task queue avec async/await proper
-- ✅ **Infra CI/CD** : Terraform → économie -3000€/an infrastructure
-
-**Détails techniques** :
-```
-Architecture:
-  Frontend (React 18 + TailwindCSS)
-         ↓
-  API Gateway (Node.js Express)
-         ↓
-  Microservices (Chat, Triage, Notifications)
-         ↓
-  PostgreSQL + Redis Cache
-         ↓
-  MQTT Broker (IoT capteurs)
-         ↓
-  Logging/Monitoring Stack
-
-Performance Optimization:
-  - Connection pooling (pg)
-  - Redis caching strategy (TTL, patterns)
-  - API rate limiting (express-rate-limit)
-  - Gzip compression
-  - CDN for static assets
-  - Database indexing & query optimization
-```
-
----
-
-### 2️⃣ MedAssist AI - Chatbot Médical RAG Autonome
-
-**Mission** : Développer un assistant IA médical avec Retrieval-Augmented Generation (RAG) et agents autonomes
-
-**Stack** : Python 3.11 | FastAPI | LangChain 0.2 | Mistral 7B (Ollama) | FAISS | React 18 | Docker
-
-**Architecture RAG** :
-```
-Médecin / Patient
-      ↓
-   React UI (Chat Interface + Voice Input)
-      ↓
-FastAPI Backend
-      ↓
-LangChain Orchestrator
-  ├─ RAG Chain (documents médicaux indexés)
-  ├─ Agent Autonome (outils externes)
-  └─ Validation Pydantic (outputs structurés)
-      ↓
-Vector DB (FAISS)
-  └─ Embeddings (Mistral + OpenAI)
-      ↓
-LLM Backbone
-  ├─ Mistral 7B (on-premise via Ollama)
-  ├─ OpenAI GPT-4o (optionnel, API)
-  └─ Vision (GPT-4o pour analyse images)
-      ↓
-Outils Métier (Agents)
-  ├─ Calcul dosages (pediatrie, renal)
-  ├─ Interactions médicamenteuses (PubMed API)
-  ├─ Recherche docs médicaux
-  └─ Notifications (SMS/Email)
-```
-
-**Fonctionnalités** :
-- ✅ **Chat RAG** : répond en citant sources (docs médicaux privés)
-- ✅ **Recherche vectorielle** : FAISS + embeddings semantiques
-- ✅ **Agents autonomes** : appel outils, calculs dosages, interactions med
-- ✅ **Multimodal** : analyse ordonnances (GPT-4o Vision), dictée vocale (Whisper)
-- ✅ **Sorties structurées** : Pydantic v2 validation, JSON schemas
-- ✅ **Confidentialité** : 100% on-premise deployable (Ollama local)
-- ✅ **Interface moderne** : React UI style ChatGPT avec historique + sources
-
-**Résultats** :
-- Accuracy RAG : 87% (RAGAS evaluation)
-- Latency moyenne : 1.2s (avec Mistral local)
-- Hallucination rate : <5% (avec citation enforcement)
-- Support : 60+ langues (Mistral multilingual)
-
-**Notebooks d'expérience** :
-```
-01_data_exploration.ipynb      → Préparation datasets médicaux
-02_embeddings_comparison.ipynb → Mistral vs OpenAI embeddings
-03_rag_evaluation.ipynb        → Evaluation RAGAS (precision, recall)
-04_agent_testing.ipynb         → Test agents (dosages, interactions)
-```
-
----
-
-### 3️⃣ Détection Humaine 3D Indoor - Point Cloud AI
-
-**Mission** : Développer un pipeline real-time de détection humaine par point cloud LiDAR
-
-**Stack** : Python | PyTorch | PointNet++ | ROS 2 | LiDAR Livox | RViz2 | MQTT
-
-**Architecture** :
-```
-LiDAR Livox (ROS2 Topic)
-      ↓
-Data Ingestion (rosbags → .pcd point clouds)
-      ↓
-Data Augmentation (rotation, scaling, noise)
-      ↓
-PointNet++ Model
-  ├─ Set Abstraction Layers
-  ├─ Feature Propagation
-  └─ Classification Head
-      ↓
-Real-time Inference
-  ├─ Bounding boxes (person detection)
-  ├─ Confidence score
-  └─ RViz2 Visualization
-      ↓
-MQTT Publisher (downstream systems)
-```
-
-**Résultats** :
-- ✅ **Accuracy 95%** (50 epochs, test set)
-- ✅ **Inference temps réel** : bounding boxes via RViz2
-- ✅ **Data Engineering** : conversion rosbags → .pcd → tensors PyTorch
-- ✅ **Edge deployment** : optimized pour inference sur machine limite
-
-**Optimizations** :
-- Voxel downsampling pour réduire points
-- Batch processing asynchrone
-- Model quantization (int8) pour edge
-- MQTT pub/sub pour inter-processus comms
-
----
-
-## 📊 KPIs & Résultats mesurés
-
-| Métrique | Valeur | Impact |
-|----------|--------|--------|
-| **Uptime eHosp** | 99.9% | SLA production critique |
-| **API Latency p95** | <250ms | User experience optimale |
-| **Cache Hit Ratio** | 78% | -60% DB queries |
-| **Connexions simultanées** | 1000+ | Scalabilité validée |
-| **CI/CD Deployment** | <5min | Rapid iteration |
-| **Infrastructure costs** | -3000€/an | Terraform IaC ROI |
-| **RAG Accuracy** | 87% | RAGAS evaluation |
-| **Model Accuracy (3D)** | 95% | PointNet++ validation |
-| **System latency reduction** | -40% | Algorithm optimization |
-
----
-
-## 🎓 Formation
-
-```
-🎯 Master 2 IoT (Bac+5)
-   UFR STGI Montbéliard | 2026-2027
-   Spécialisations : IA Embarquée, Systèmes Distribués, Cloud Computing
-
-🎯 Master 1 IoT (Bac+4)
-   UFR STGI Montbéliard | 2025-2026
-   Résultat : Excellent
-
-🎯 BUT IoT (Bac+3)
-   IUT Montbéliard | 2022-2025
-   Résultat : Excellent
-```
-
----
-
-## 💼 Expériences professionnelles
-
-### 🔬 Ingénieur R&D IA / Computer Vision (Stage)
-**Faurecia Seating (FORVIA)** | Audincourt | Février-Juin 2025
-- Développement plateforme eHosp.fr (Lead architect backend)
-- YOLOv8 optimization pour drone edge computing (-40% latence)
-- PointNet++ 3D human detection (LiDAR ROS2 pipeline)
-- Maintenance infra production (99.9% uptime)
-
-### 🛠️ Technicien IT Support Industriel
-**Faurecia Seating** | Audincourt | Avril-Juin 2024
-- Network maintenance & troubleshooting
-- Just-In-Time production support
-- Documentation & automation scripts
-
----
-
-## 🔗 Ressources & Liens
-
-**GitHub** : https://github.com/Altay55stage  
-**eHosp.fr** : https://www.ehosp.fr/
-**MedAssist AI** : https://github.com/Altay55stage/medassist-ai  
-**CV complet** : https://drive.google.com/file/d/1jMpSuHpLIjxgUr_2O4p4KF5zolZrFAYZ/view?usp=sharing
-
----
-
-## 🌟 Atouts clés
-
-✨ **Full-Stack** : backend Node.js/FastAPI + frontend React/Vue + DevOps  
-✨ **IA/ML** : architecte LangChain RAG, fine-tuning LLM, vision 3D PyTorch  
-✨ **Performance obsessed** : optimisation latency, caching strategies, scalability  
-✨ **Production mindset** : monitoring, logging, CI/CD, infrastructure-as-code  
-✨ **Entrepreuneur** : multiple concurrent projects, ownership mentality  
-✨ **Communication** : clear technical documentation, English + French  
-
----
-
-## 🎯 Disponibilité
-
-📅 **Alternance** : Septembre 2026 - Août 2027 (12 mois)  
-📍 **Localisation** : Audincourt (frontalier Suisse)  
-   - 15min → Belfort
-   - 1h30 → Genève
-   - 5min → Montbéliard
-
-**Secteurs recherchés** :
-✅ HealthTech / eHealth  
-✅ AI/ML Infrastructure  
-✅ Trading Tech / FinTech  
-✅ Cloud DevOps  
-✅ Autonomous Systems  
-
----
-
-## 📬 Contact
-
-```
-📧 Email        : altaycevik@gmail.com
-📱 Téléphone    : +33 7 83 65 68 37
-💼 LinkedIn     : https://linkedin.com/in/altay-cevik
-🐙 GitHub       : https://github.com/Altay55stage
-📍 Localisation : Doubs, Bourgogne, France
-```
-
----
-
 <div align="center">
+<img src="https://img.shields.io/badge/🚀_MedAssist_AI_Production_%F0%9F%9A%80-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/%F0%9F%94%A5_eHosp.fr_1000%2B_Users_%E2%9C%85-green?style=for-the-badge&logo=users&logoColor=white" />
+</div>
 
-### 🚀 Prêt pour scaler vos projets IA & Full-Stack ?
-
-**Contactez-moi pour discuter de vos besoins !**
+---
+*✨ Mars 2026 | github.com/Altay55stage*
+EOF
+```
 
 ---
 
-*Dernière mise à jour : Mars 2026 | Portfolio complet disponible sur GitHub*
+## ✅ ÉTAPE 3 : Vérifier que le fichier est créé
 
-</div>
+```bash
+cat README.md | head -20
+```
+
+**Résultat** : Tu dois voir les premiers badges et le "typing SVG"
+
+---
+
+## ✅ ÉTAPE 4 : Git commit et push
+
+```bash
+# Vérifie le statut
+git status
+
+# Ajoute le README
+git add README.md
+
+# Commit avec message pro
+git commit -m "✨ README ultra-visuel : MedAssist AI + eHosp.fr lead"
+
+# Push sur GitHub
+git push origin main
+```
+
+**Si tu es sur `master` au lieu de `main`** :
+```bash
+git push origin master
+```
+
+---
+
+## ✅ ÉTAPE 5 : Vérifier sur GitHub
+
+Ouvre **`https://github.com/Altay55stage`** et regarde ton profil :
+- ✅ **Typing animation** d'accueil
+- ✅ **Badges colorés** KPI
+- ✅ **GitHub stats/trophées** dynamiques
+- ✅ **Diagramme Mermaid** stack
+- ✅ **MedAssist AI en avant** ⭐
+- ✅ **eHosp.fr production**
+
+---
+
+## 📝 BONUS : Si tu veux nettoyer les repos
+
+```bash
+# Vérifie tes repos
+ls -la ~/.ssh/  # Ou ton dossier git
+
+# Pour chaque repo à transférer (medassist-ai, etc.)
+# Settings → Danger Zone → Transfer ownership
+# OU utilise la CLI GitHub :
+
+gh repo transfer altay1cvk/medassist-ai --new-owner Altay55stage
+```
+
+---
+
+## ✅ LUNDI 9H : MESSAGE LINKEDIN À VALENTIN
+
+```
+Bonjour Valentin,
+
+J'ai bien envoyé ma candidature Backend Laravel suite au forum.
+Ana m'a dit que mon dossier est en traitement.
+
+En attendant, j'ai publié MedAssist AI (chatbot médical RAG) 
+et eHosp.fr v1 sur GitHub :
+→ github.com/Altay55stage/medassist-ai
+→ Resource controllers REST + JSON ✅
+
+Bonne semaine !
+Altay
+```
+
+---
+
+## ⚠️ VÉRIFICATIONS AVANT DE PUSHER
+
+```bash
+# ❌ INTERDIT : Vérifier qu'il n'y a pas de .env avec clés API
+grep -r "OPENAI_API_KEY\|MISTRAL_KEY\|DATABASE_URL" . --exclude-dir=.git
+
+# ✅ OK : Git ignore configuré
+cat .gitignore | grep -E "\.env|.env.local|secrets"
+
+# Si besoin, ajoute :
+echo ".env" >> .gitignore
+echo "*.key" >> .gitignore
+echo "secrets/" >> .gitignore
+git add .gitignore
+git commit -m "🔒 Add sensitive files to gitignore"
+```
+
