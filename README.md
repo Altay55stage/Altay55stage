@@ -358,8 +358,7 @@ python3 -c "import glob, json; \
 | 🗣️ Langue | Niveau |
 |:---------:|:------:|
 | 🇫🇷 Français | Maternel |
-| 🇹🇷 Turc | Maternel |
-| 🇬🇧 Anglais | B2 — Professionnel technique |
+| 🇬🇧 Anglais | Professionnel |
 
 ---
 
