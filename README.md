@@ -379,7 +379,7 @@ python3 -c "import glob, json; \
 🧬  (Bonus) Deep Tech / Bio-Computing — post-silicium · neuromorphique
 ```
 
-**Zone géographique :** Audincourt · Belfort · Besançon · Bâle (30 min) · Genève (1h30) · Remote
+**Zone géographique :** Audincourt · Belfort · Besançon · Bâle (30 min) · Genève (1h30) · 
 
 ---
 
