@@ -9,7 +9,7 @@
 [![Altay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Altay55stage&show_icons=true&theme=radical&count_private=true)](https://github.com/Altay55stage)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Altay55stage&layout=compact&theme=radical)](https://github.com/Altay55stage)
 
-**🔥 Actuellement** : Ingénieur R&D IA / Computer Vision @ Faurecia Seating (Février-Juin 2025)
+**🔥 Actuellement** : Ingénieur R&D IA / Computer Vision 
 
 </div>
 
